@@ -45,6 +45,6 @@ Functional Requirements
 		E. Exit Program
 		- End the application.
       
-Continuous Operation:
+3. Continuous Operation:
 - After completing any transaction (1-4), return to the navigational menu.
 - Option 5 ends the program.
